@@ -2,55 +2,6 @@
   "format": 1,
   "packs": [
     {
-      "id": "gemini-50",
-      "name": "November Pack",
-      "version": "2026-11-24T17:53:47.798Z",
-      "count": 42,
-      "file": "packs/gemini-50.json"
-    },
-    {
-      "id": "ab-images",
-      "name": "Ab Images",
-      "version": "2026-11-24T18:42:18.012Z",
-      "count": 10,
-      "file": "packs/ab-images.json"
-    },
-    {
-      "id": "difficult-10",
-      "name": "Difficult 10",
-      "version": "2026-11-24T18:42:25.843Z",
-      "count": 8,
-      "file": "packs/difficult-10.json"
-    },
-    {
-      "id": "ab-text",
-      "name": "Ab Text",
-      "version": "2026-11-24T18:43:02.968Z",
-      "count": 7,
-      "file": "packs/ab-text.json"
-    },
-    {
-      "id": "girder-zoo",
-      "name": "Girder Zoo",
-      "version": "2026-11-24T18:43:14.484Z",
-      "count": 18,
-      "file": "packs/girder-zoo.json"
-    },
-    {
-      "id": "jumbo-gravity-10",
-      "name": "Jumbo Gravity 10",
-      "version": "2026-11-24T18:48:32.675Z",
-      "count": 9,
-      "file": "packs/jumbo-gravity-10.json"
-    },
-    {
-      "id": "variety-test",
-      "name": "Variety Test",
-      "version": "2026-11-24T18:49:27.487Z",
-      "count": 9,
-      "file": "packs/variety-test.json"
-    },
-    {
       "id": "pack-11-24",
       "name": "Teleporters",
       "version": "2026-11-24T19:27:02.541Z",
@@ -74,5 +25,5 @@
       "file": "packs/gemini-lab.json"
     }
   ],
-  "updated": "2026-11-24T19:56:39.426Z"
+  "updated": "2026-11-24T19:56:43.179Z"
 }
