@@ -11,9 +11,9 @@
     },
     {
       "id": "november",
-      "name": "November Pack",
-      "description": "Gemini-designed levels, verified solvable by the solver, easy to expert.",
-      "version": "2026-11-24T19:54:28.532Z",
+      "name": "Andromeda",
+      "description": "A sprawling galaxy of 77 Gemini-designed puzzles, from first steps to expert.",
+      "version": "2026-11-24T20:05:31.473Z",
       "count": 77,
       "file": "packs/november.json"
     },
@@ -26,5 +26,5 @@
       "file": "packs/gemini-lab.json"
     }
   ],
-  "updated": "2026-11-24T20:05:27.604Z"
+  "updated": "2026-11-24T20:05:31.473Z"
 }
