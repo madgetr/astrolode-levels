@@ -14,7 +14,14 @@
       "version": "2026-11-24T18:42:18.012Z",
       "count": 10,
       "file": "packs/ab-images.json"
+    },
+    {
+      "id": "difficult-10",
+      "name": "Difficult 10",
+      "version": "2026-11-24T18:42:25.843Z",
+      "count": 8,
+      "file": "packs/difficult-10.json"
     }
   ],
-  "updated": "2026-11-24T18:42:18.012Z"
+  "updated": "2026-11-24T18:42:25.843Z"
 }
