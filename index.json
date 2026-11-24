@@ -5,10 +5,10 @@
       "id": "gemini-50",
       "name": "Gemini 50",
       "description": "Levels designed by Gemini, verified solvable by the solver, easy to expert.",
-      "version": "2026-11-24T16:39:02.422Z",
-      "count": 19,
+      "version": "2026-11-24T16:57:38.530Z",
+      "count": 42,
       "file": "packs/gemini-50.json"
     }
   ],
-  "updated": "2026-11-24T16:39:02.422Z"
+  "updated": "2026-11-24T16:57:38.530Z"
 }
