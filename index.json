@@ -23,13 +23,6 @@
       "file": "packs/difficult-10.json"
     },
     {
-      "id": "jumbo-gravity-10",
-      "name": "Jumbo Gravity 10",
-      "version": "2026-11-24T18:42:36.814Z",
-      "count": 3,
-      "file": "packs/jumbo-gravity-10.json"
-    },
-    {
       "id": "ab-text",
       "name": "Ab Text",
       "version": "2026-11-24T18:43:02.968Z",
@@ -42,7 +35,14 @@
       "version": "2026-11-24T18:43:14.484Z",
       "count": 18,
       "file": "packs/girder-zoo.json"
+    },
+    {
+      "id": "jumbo-gravity-10",
+      "name": "Jumbo Gravity 10",
+      "version": "2026-11-24T18:48:32.675Z",
+      "count": 9,
+      "file": "packs/jumbo-gravity-10.json"
     }
   ],
-  "updated": "2026-11-24T18:43:14.484Z"
+  "updated": "2026-11-24T18:48:32.675Z"
 }
