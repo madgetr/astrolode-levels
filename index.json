@@ -42,7 +42,14 @@
       "version": "2026-11-24T18:48:32.675Z",
       "count": 9,
       "file": "packs/jumbo-gravity-10.json"
+    },
+    {
+      "id": "variety-test",
+      "name": "Variety Test",
+      "version": "2026-11-24T18:49:27.487Z",
+      "count": 9,
+      "file": "packs/variety-test.json"
     }
   ],
-  "updated": "2026-11-24T18:48:32.675Z"
+  "updated": "2026-11-24T18:49:27.487Z"
 }
