@@ -3,11 +3,11 @@
   "packs": [
     {
       "id": "gemini-50",
-      "name": "Gemini 50",
-      "version": "2026-11-24T17:45:12.936Z",
+      "name": "November Pack",
+      "version": "2026-11-24T17:53:47.798Z",
       "count": 42,
       "file": "packs/gemini-50.json"
     }
   ],
-  "updated": "2026-11-24T17:45:12.936Z"
+  "updated": "2026-11-24T17:53:47.798Z"
 }
