@@ -64,7 +64,15 @@
       "version": "2026-11-24T19:54:28.532Z",
       "count": 77,
       "file": "packs/november.json"
+    },
+    {
+      "id": "gemini-lab",
+      "name": "Gemini Lab",
+      "description": "Experimental Gemini levels from the image and variety tests.",
+      "version": "2026-11-24T19:56:39.426Z",
+      "count": 26,
+      "file": "packs/gemini-lab.json"
     }
   ],
-  "updated": "2026-11-24T19:54:28.532Z"
+  "updated": "2026-11-24T19:56:39.426Z"
 }
