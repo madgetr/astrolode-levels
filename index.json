@@ -35,7 +35,14 @@
       "version": "2026-11-24T18:43:02.968Z",
       "count": 7,
       "file": "packs/ab-text.json"
+    },
+    {
+      "id": "girder-zoo",
+      "name": "Girder Zoo",
+      "version": "2026-11-24T18:43:14.484Z",
+      "count": 18,
+      "file": "packs/girder-zoo.json"
     }
   ],
-  "updated": "2026-11-24T18:43:02.968Z"
+  "updated": "2026-11-24T18:43:14.484Z"
 }
