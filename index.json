@@ -56,7 +56,15 @@
       "version": "2026-11-24T19:27:02.541Z",
       "count": 14,
       "file": "packs/pack-11-24.json"
+    },
+    {
+      "id": "november",
+      "name": "November Pack",
+      "description": "Gemini-designed levels, verified solvable by the solver, easy to expert.",
+      "version": "2026-11-24T19:54:28.532Z",
+      "count": 77,
+      "file": "packs/november.json"
     }
   ],
-  "updated": "2026-11-24T19:27:02.541Z"
+  "updated": "2026-11-24T19:54:28.532Z"
 }
