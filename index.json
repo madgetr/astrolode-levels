@@ -3,10 +3,11 @@
   "packs": [
     {
       "id": "pack-11-24",
-      "name": "Teleporters",
-      "version": "2026-11-24T19:27:02.541Z",
+      "name": "Gemini",
+      "version": "2026-11-24T20:05:27.604Z",
       "count": 14,
-      "file": "packs/pack-11-24.json"
+      "file": "packs/pack-11-24.json",
+      "description": "The Twins: every portal A has its B. Thread rocks through teleporter pairs."
     },
     {
       "id": "november",
@@ -25,5 +26,5 @@
       "file": "packs/gemini-lab.json"
     }
   ],
-  "updated": "2026-11-24T19:56:43.179Z"
+  "updated": "2026-11-24T20:05:27.604Z"
 }
