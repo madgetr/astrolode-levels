@@ -21,7 +21,14 @@
       "version": "2026-11-24T18:42:25.843Z",
       "count": 8,
       "file": "packs/difficult-10.json"
+    },
+    {
+      "id": "jumbo-gravity-10",
+      "name": "Jumbo Gravity 10",
+      "version": "2026-11-24T18:42:36.814Z",
+      "count": 3,
+      "file": "packs/jumbo-gravity-10.json"
     }
   ],
-  "updated": "2026-11-24T18:42:25.843Z"
+  "updated": "2026-11-24T18:42:36.814Z"
 }
